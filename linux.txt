@@ -1,0 +1,3 @@
+What is Linux in DevOps?
+
+In DevOps, Linux is the foundational operating system that powers cloud infrastructure, virtual machines, and container runtimes. It acts as the core environment where automation scripts execute, continuous integration/continuous deployment (CI/CD) pipelines run, and tools like Docker and Kubernetes operate.
