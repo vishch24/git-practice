@@ -1,5 +1,6 @@
 Intro to DevOps Engineering:
 
+What actually is Devops?
 DevOps is a cultural mindset and set of practices combining software development (Dev) and IT operations (Ops). It breaks down silos to automate and speed up the software delivery lifecycle while maintaining high system stability and reliability.
 
 Core Principles:
