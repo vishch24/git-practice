@@ -5,3 +5,5 @@ The settings include:
 - Edit
 - Display
 - Archive
+- Delete
+- Sort
