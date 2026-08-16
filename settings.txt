@@ -4,3 +4,4 @@ The settings include:
 - Create
 - Edit
 - Display
+- Archive
