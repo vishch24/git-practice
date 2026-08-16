@@ -1,3 +1,6 @@
 Shell Scripting:
 
 Shell scripting is the process of writing a series of commands in a text file for a command-line interpreter (the shell) to execute automatically. It is primarily used for automating repetitive tasks, managing system configurations, and streamlining DevOps workflows.
+
+How It Works?
+Instead of typing commands one by one into a terminal, you save them into a script file (usually ending in .sh). The shell reads this file line-by-line and executes the code as a single program. The most popular shell used for scripting today is Bash (Bourne Again Shell), which is standard on most Linux distributions and macOS.
