@@ -1,1 +1,1 @@
-Intro to DevOps Engineering:
+Introduction to DevOps:
