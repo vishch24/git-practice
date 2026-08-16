@@ -1,1 +1,6 @@
 This is a settings file from settings branch.
+
+The settings include:
+- Create
+- Edit
+- Display
