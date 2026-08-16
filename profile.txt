@@ -1,4 +1,5 @@
 This is a profile.
 Here is my name.
 Here are my details.
+This line is added from the master branch.
 This is the end of the file.
