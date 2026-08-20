@@ -1,0 +1,9 @@
+What is Linux in DevOps?
+
+In DevOps, Linux is the foundational operating system that powers cloud infrastructure, virtual machines, and container runtimes. It acts as the core environment where automation scripts execute, continuous integration/continuous deployment (CI/CD) pipelines run, and tools like Docker and Kubernetes operate.
+
+Why Linux Matters in DevOps?
+1. Cloud Infrastructure: Most cloud virtual machines (such as AWS EC2, Azure, and Google Cloud) run on Linux distributions like Ubuntu, CentOS, or Red Hat by default.
+2. Containerization: Tools like Docker and Kubernetes rely directly on Linux kernel features—such as namespaces and control groups (cgroups)—to isolate and run containers efficiently.
+3. Automation & Scripting: Linux provides a robust command-line interface (CLI) and shell scripting (Bash, Python) that allow engineers to write repeatable automation scripts.
+4. Stability & Security: Linux runs continuously without frequent reboots, and its strict user permission models make production environments secure.
